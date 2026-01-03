@@ -38,7 +38,15 @@
       "download_url": "https://github.com/sliverarmory/BOF-patchit",
       "version": "0.0.1",
       "help": "Patch, check and revert AMSI and ETW for x64 process",
-      "is_dotnet": true
+      "is_dotnet": false
+    },
+    {
+      "name": "unhook-bof",
+      "type": "bof",
+      "download_url": "https://github.com/sliverarmory/unhook-bof",
+      "version": "0.0.2",
+      "help": "Remove API hooks from a Beacon process",
+      "is_dotnet": false
     }
   ]
 }
