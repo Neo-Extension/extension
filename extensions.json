@@ -2,11 +2,11 @@
   "extensions": [
     {
       "name": "Nano Dump",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/nanodump",
       "version": "0.0.1",
       "help": "Nano Dump extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "CredMan",
@@ -18,19 +18,19 @@
     },
     {
       "name": "Inject ETW Bypass",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/InjectEtwBypass",
       "version": "0.0.1",
       "help": "Inject ETW Bypass extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "Inject AMSI Bypass",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/InjectAmsiBypass",
       "version": "0.0.1",
       "help": "Inject AMSI Bypass extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "Find Module",
@@ -1338,11 +1338,11 @@
     },
     {
       "name": "SQLRecon",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/SQLRecon",
       "version": "0.0.1",
       "help": "SQLRecon extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     },
     {
       "name": "SharpLAPS",
@@ -1394,11 +1394,11 @@
     },
     {
       "name": "MLOKit",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/MLOKit",
       "version": "0.0.1",
       "help": "MLOKit extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     }
   ]
 }
