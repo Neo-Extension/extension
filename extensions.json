@@ -1,14 +1,6 @@
 {
   "extensions": [
     {
-      "name": "COFF Loader",
-      "type": "",
-      "download_url": "https://github.com/sliverarmory/COFFLoader",
-      "version": "0.0.1",
-      "help": "COFF Loader extension",
-      "is_dotnet": ""
-    },
-    {
       "name": "Nano Dump",
       "type": "",
       "download_url": "https://github.com/sliverarmory/nanodump",
