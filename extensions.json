@@ -1186,75 +1186,75 @@
     },
     {
       "name": "nanorobeus",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/HavocFrameworkModules",
       "version": "0.0.1",
       "help": "nanorobeus extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "go-cookie-monster",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/go-cookie-monster",
       "version": "0.0.1",
       "help": "go-cookie-monster extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "chisel",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/chisel",
       "version": "0.0.1",
       "help": "chisel extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "portbender",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/Sliver-PortBender",
       "version": "0.0.1",
       "help": "portbender extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "powerchell",
-      "type": "",
+      "type": "pe",
       "download_url": "https://github.com/sliverarmory/PowerChell",
       "version": "0.0.1",
       "help": "powerchell extension",
-      "is_dotnet": ""
+      "is_dotnet": false
     },
     {
       "name": "KrbRelayUp",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/KrbRelayUp",
       "version": "0.0.1",
       "help": "KrbRelayUp extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     },
     {
       "name": "Rubeus",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/Rubeus",
       "version": "0.0.1",
       "help": "Rubeus extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     },
     {
       "name": "Seatbelt",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/Seatbelt",
       "version": "0.0.1",
       "help": "Seatbelt extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     },
     {
       "name": "Certify",
-      "type": "",
+      "type": "assembly",
       "download_url": "https://github.com/sliverarmory/Certify",
       "version": "0.0.1",
       "help": "Certify extension",
-      "is_dotnet": ""
+      "is_dotnet": true
     },
     {
       "name": "Sharp SMBExec",
